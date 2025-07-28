@@ -1,4 +1,3 @@
-# Python tabanlı basit Flask app için örnek Dockerfile
 FROM python:3.11-slim
 
 WORKDIR /app
